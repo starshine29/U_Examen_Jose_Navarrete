@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 28e7c2806d2aa364a870136b0f1e9f67
+timeCreated: 1533129575
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Demo/Data/Gas/PPS_GasBronze.asset
+  uploadId: 302754

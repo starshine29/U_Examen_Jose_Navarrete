@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48a4d422bc7a77b41a9e780d1f6818eb
+timeCreated: 1503916060
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Assets/Shaders/PPS_Body_Solid.shader
+  uploadId: 302754

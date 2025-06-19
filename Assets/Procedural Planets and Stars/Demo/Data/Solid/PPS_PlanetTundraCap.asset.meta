@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a0603548d7ebae4ba3fd17431ac2753
+timeCreated: 1532371051
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Demo/Data/Solid/PPS_PlanetTundraCap.asset
+  uploadId: 302754

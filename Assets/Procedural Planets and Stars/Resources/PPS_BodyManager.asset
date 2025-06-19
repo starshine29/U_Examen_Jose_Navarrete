@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6662c23fcfe1f0d489caa53998ce9c2a, type: 3}
+  m_Name: PPS_BodyManager
+  m_EditorClassIdentifier: 
+  graphDefault: {fileID: 11400002, guid: b59c03a5a607b5e44a487f2e5231b715, type: 3}
+  mesh: {fileID: 4300000, guid: 09c6aa38ac184f740a81a4a90526e8e0, type: 3}
+  substanceLoadBehaviour: 1
+  cameraProjection: 0
+  editData: 1
+  graphSolidMasks: {fileID: 11400002, guid: b1029aec9c1a5e342a09a367307ec504, type: 3}
+  graphSolidClouds: {fileID: 11400002, guid: 60aa171b02f355f449b303333bd168b5, type: 3}
+  graphSolidLights: {fileID: 11400002, guid: 2acd8260fd9b749449fc3b3cf55bdf1c, type: 3}
+  graphGas: {fileID: 11400002, guid: df924cd899266a946bba20083531d40a, type: 3}
+  graphSun: {fileID: 11400002, guid: 90db142215d63324bbf1eaa837cb261a, type: 3}
+  sbsarSolidTerrain: {fileID: 11400000, guid: b59c03a5a607b5e44a487f2e5231b715, type: 3}
+  sbsarSolidMasks: {fileID: 11400000, guid: b1029aec9c1a5e342a09a367307ec504, type: 3}
+  sbsarSolidLights: {fileID: 11400000, guid: 2acd8260fd9b749449fc3b3cf55bdf1c, type: 3}
+  sbsarSolidClouds: {fileID: 11400000, guid: 60aa171b02f355f449b303333bd168b5, type: 3}
+  sbsarGas: {fileID: 11400000, guid: df924cd899266a946bba20083531d40a, type: 3}
+  sbsarSun: {fileID: 11400000, guid: 90db142215d63324bbf1eaa837cb261a, type: 3}
+  lightingMode: 0
+  solidQuality: 2
+  gasQuality: 2
+  sunQuality: 2
+  lightingType: 1
+  fixPolesSolid: 1
+  fixPolesSun: 1
+  animate: 1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc8f6f7400a3cfb4590e06b1558417a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21594
+  packageName: 'Space Ship Titanium Fighter '
+  packageVersion: 1.1
+  assetPath: Assets/Titanium-Fighter/FBX/Materials/rocketText.mat
+  uploadId: 21241

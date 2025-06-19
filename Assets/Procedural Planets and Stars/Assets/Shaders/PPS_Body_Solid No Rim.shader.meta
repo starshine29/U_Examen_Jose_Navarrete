@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 504a21746d1ca7946b6251dd2d11e241
+timeCreated: 1503916060
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Assets/Shaders/PPS_Body_Solid No
+    Rim.shader
+  uploadId: 302754

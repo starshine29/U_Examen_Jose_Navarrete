@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c27a0985e408e4a89888493df3e481, type: 3}
+  m_Name: PPS_PlanetaryRingDuneWar
+  m_EditorClassIdentifier: 
+  offsetX:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  offsetY:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  offsetZ:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  angleX:
+    range: 0
+    minValue: 90
+    maxValue: 90
+  angleY:
+    range: 0
+    minValue: -10
+    maxValue: -10
+  angleZ:
+    range: 0
+    minValue: -10
+    maxValue: -10
+  scaleX:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  scaleY:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  scaleZ:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  LOD:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  radius:
+    range: 0
+    minValue: 0.333
+    maxValue: 0.333
+  noise:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  shadow:
+    range: 0
+    minValue: 0.75
+    maxValue: 0.75
+  animationSpeed:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  stripes:
+    range: 1
+    minValue: 2
+    maxValue: 100
+  gradientList:
+  - {fileID: 2800000, guid: 7b34b660616e88b41bf73bbe8d2cd9ef, type: 3}

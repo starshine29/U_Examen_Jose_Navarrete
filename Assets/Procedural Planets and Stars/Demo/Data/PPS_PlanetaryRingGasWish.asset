@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c27a0985e408e4a89888493df3e481, type: 3}
+  m_Name: PPS_PlanetaryRingGasWish
+  m_EditorClassIdentifier: 
+  radius:
+    range: 0
+    minValue: 0.15
+    maxValue: 0.15
+  noise:
+    range: 0
+    minValue: 1.2
+    maxValue: 1.2
+  shadow:
+    range: 0
+    minValue: 0.8
+    maxValue: 0.8
+  animationSpeed:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  stripes:
+    range: 0
+    minValue: 20
+    maxValue: 20
+  gradientList:
+  - {fileID: 2800000, guid: 2625308d5f843784eaf8c0341c0da543, type: 3}

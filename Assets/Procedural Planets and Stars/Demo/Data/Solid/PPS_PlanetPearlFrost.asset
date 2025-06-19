@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37f7b74422b139146bb46ee50dd9b427, type: 3}
+  m_Name: PPS_PlanetPearlFrost
+  m_EditorClassIdentifier: 
+  ringProbability:
+    range: 0
+    minValue: 0.333
+    maxValue: 0.333
+  ringData: []
+  randomGradients: 1
+  texLOD: 1
+  ambientLight: 0.03
+  gradientList:
+  - {fileID: 2800000, guid: f49fde065b89e1f41b8f94a1cc72c68c, type: 3}
+  terrainHeight:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  terraformMask:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  terraformFunction:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  bumpScale:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  iceGradient: []
+  mountainIce:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  polarIce:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  liquidGradient:
+  - {fileID: 2800000, guid: f46274e5e4e15694fa4c7ee4c1a7ea56, type: 3}
+  liquidHeight:
+    range: 0
+    minValue: 0.56
+    maxValue: 0.56
+  liquidCoastReach:
+    range: 0
+    minValue: 100
+    maxValue: 100
+  liquidEmissionColor:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  liquidEmission:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  specularColor:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  specularHighlight:
+    range: 0
+    minValue: 6
+    maxValue: 6
+  lightsColor:
+    serializedVersion: 2
+    key0: {r: 1, g: 0.79574037, b: 0.6102941, a: 1}
+    key1: {r: 1, g: 0.79574037, b: 0.6102941, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  lightsHeightMask:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  cloudsColor1:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  cloudsColor2:
+    serializedVersion: 2
+    key0: {r: 0.48529413, g: 0.6202841, b: 0.64705884, a: 1}
+    key1: {r: 0.48529413, g: 0.6202841, b: 0.64705884, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  cloudsUVTile:
+    range: 0
+    minValue: 2
+    maxValue: 2
+  cloudsVolume:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  cloudsOpacity:
+    range: 0
+    minValue: 0.85
+    maxValue: 0.85
+  cloudsSpeed:
+    range: 0
+    minValue: 0.1
+    maxValue: 0.1
+  rimProbability:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  rimColor:
+    serializedVersion: 2
+    key0: {r: 0.8235294, g: 0.97079116, b: 1, a: 1}
+    key1: {r: 0.8235294, g: 0.97079116, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  rimRadius:
+    range: 0
+    minValue: 0.02
+    maxValue: 0.02
+  rimPower:
+    range: 0
+    minValue: 2
+    maxValue: 2
+  rimOpacity:
+    range: 0
+    minValue: 1
+    maxValue: 1
+  terrainType:
+    range: 0
+    minValue: 4
+    maxValue: 4
+  terrainRockiness:
+    range: 0
+    minValue: 0.2
+    maxValue: 0.2
+  spotsOpacity:
+    range: 0
+    minValue: 0.1
+    maxValue: 0.1
+  cratersMask:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  cratersAmount:
+    range: 0
+    minValue: 15
+    maxValue: 15
+  cratersSize:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  cracksOpacity:
+    range: 0
+    minValue: 0.3
+    maxValue: 0.3
+  cracksAmount:
+    range: 0
+    minValue: 30
+    maxValue: 30
+  cracksDepth:
+    range: 0
+    minValue: 0.3
+    maxValue: 0.3
+  terrainMaskContrast:
+    range: 0
+    minValue: 0.76
+    maxValue: 0.76
+  liquidMaskContrast:
+    range: 0
+    minValue: 0.5
+    maxValue: 0.5
+  cityMask:
+    range: 0
+    minValue: 0.5
+    maxValue: 0.5
+  citiesOpacity:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  citiesAmount:
+    range: 0
+    minValue: 0
+    maxValue: 0
+  suburbsOpacity:
+    range: 0
+    minValue: 0.333
+    maxValue: 0.333
+  suburbsReach:
+    range: 0
+    minValue: 0.4
+    maxValue: 0.4

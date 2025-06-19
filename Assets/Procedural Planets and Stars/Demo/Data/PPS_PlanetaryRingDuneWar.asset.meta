@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f5ca07c1530790a4eb53bd4c6301ad00
+timeCreated: 1535141071
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Demo/Data/PPS_PlanetaryRingDuneWar.asset
+  uploadId: 302754

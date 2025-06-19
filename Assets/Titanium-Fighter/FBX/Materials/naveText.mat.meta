@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d4d775ddbf88414db3d2916769bd9d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21594
+  packageName: 'Space Ship Titanium Fighter '
+  packageVersion: 1.1
+  assetPath: Assets/Titanium-Fighter/FBX/Materials/naveText.mat
+  uploadId: 21241

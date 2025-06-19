@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f7080da5c3620364a908c8a1e19db90b
+timeCreated: 1533129575
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Demo/Data/Gas/PPS_GasDrip.asset
+  uploadId: 302754

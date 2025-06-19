@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6508b351df297064586a1cd93400996a
+timeCreated: 1537520059
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Assets/Shaders/Editor/PPS_AShaderGUI.cs
+  uploadId: 302754

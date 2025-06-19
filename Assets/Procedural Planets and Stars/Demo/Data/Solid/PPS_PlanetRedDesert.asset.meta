@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ea93e57c706c2304cb447e15f48f1028
+timeCreated: 1532371051
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Demo/Data/Solid/PPS_PlanetRedDesert.asset
+  uploadId: 302754

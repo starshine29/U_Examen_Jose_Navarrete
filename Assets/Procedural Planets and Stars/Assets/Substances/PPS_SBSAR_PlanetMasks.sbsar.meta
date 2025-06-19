@@ -1,0 +1,61 @@
+fileFormatVersion: 2
+guid: b1029aec9c1a5e342a09a367307ec504
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: PPS_SBSAR_PlanetMasks/PPS_SBSAR_PlanetMasks
+    400000: PPS_SBSAR_PlanetMasks/PPS_SBSAR_PlanetMasks/Transform
+    2100002: MasksDefault
+    2300000: PPS_SBSAR_PlanetMasks/PPS_SBSAR_PlanetMasks/MeshRenderer
+    2800002: MasksDefault - diffuse
+    3300000: PPS_SBSAR_PlanetMasks/PPS_SBSAR_PlanetMasks/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    13500000: PPS_SBSAR_PlanetMasks/PPS_SBSAR_PlanetMasks/SphereCollider
+    100100000: PPS_SBSAR_PlanetMasks
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  version: 17
+  mGraphInstanceData:
+  - graphLabel: MasksDefault
+    prototypeName: Default
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://Default\" label=\"\" >\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: diffuse
+    texturePackingList:
+    - outputName: diffuse
+      alphaSource: diffuse
+    textureParameters:
+    - textureName: Default - diffuse
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: MasksDefault - diffuse
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    colorSpaceList:
+    - outputName: diffuse
+      bLinear: 0
+    inputTextureMap: []
+    targetSettingList:
+    - label: 
+      bLockRatio: 1
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      bGenerateOnLoad: 1
+    material: {instanceID: 0}
+    generatedTextures: []
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Assets/Substances/PPS_SBSAR_PlanetMasks.sbsar
+  uploadId: 302754

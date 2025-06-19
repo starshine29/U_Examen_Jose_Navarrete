@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e95c78ed4f796848af5e1e0daeff555
+timeCreated: 1504083392
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Assets/Shaders/PPS_Body_Gas No Rim.shader
+  uploadId: 302754

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6817baaaf90ea1044bafe4b7a7ea82f6
+timeCreated: 1505825169
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Assets/Shaders/PPS_BodyOuterRim.cginc
+  uploadId: 302754

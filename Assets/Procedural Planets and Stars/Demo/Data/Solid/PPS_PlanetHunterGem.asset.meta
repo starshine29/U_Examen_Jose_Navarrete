@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7ce9211bdc025ec4aa827eb03483a313
+timeCreated: 1532371051
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106662
+  packageName: Procedural Planets and Stars
+  packageVersion: 1.3.5
+  assetPath: Assets/Procedural Planets and Stars/Demo/Data/Solid/PPS_PlanetHunterGem.asset
+  uploadId: 302754
